@@ -340,8 +340,13 @@ ul.style6 .first {
 }
 
 .pogkrane1 {
+	background: url(/pk.jpg);
 	position: relative;
 	top: -372px;
 	left: -679px;
+
+}
+.referencePK {
+	text-align: center;
 
 }
