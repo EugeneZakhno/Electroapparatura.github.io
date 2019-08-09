@@ -1,2 +1,1 @@
-# This simple site for my work
-<Electroapparatura.github.io>
+# This simple site for my work  <https://electroapparatura.github.io>
